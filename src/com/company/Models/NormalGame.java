@@ -2,6 +2,8 @@ package com.company.Models;
 
 public class NormalGame {
     Plant selectedPlant;
+    Cell[][] cells;
+    Player player;
 
     public void select(String name){
 

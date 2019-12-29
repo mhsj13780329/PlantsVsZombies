@@ -1,5 +1,5 @@
 package com.company.Models;
 
 public enum Menu {
-    
+    MAIN_MENU, LOGIN_MENU, SHOP, LEADERBOARD, PROFILE, PLAY, COLLECTION, DAY_AND_WATER, RAIL, ZOMBIE, PVP;
 }
