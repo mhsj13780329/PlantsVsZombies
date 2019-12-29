@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da6558a5-ce8b-4e45-a6b7-fe106df0a964" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Controller/Main.java" afterPath="$PROJECT_DIR$/src/com/company/Controller/Main.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -126,10 +125,10 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15229">
-              <caret line="954" column="17" lean-forward="false" selection-start-line="954" selection-start-column="17" selection-end-line="954" selection-end-column="17" />
+            <state relative-caret-position="15509">
+              <caret line="961" column="17" lean-forward="false" selection-start-line="961" selection-start-column="17" selection-end-line="961" selection-end-column="17" />
               <folding>
-                <marker date="1577630301150" expanded="true" signature="82249:82291" ph="..." />
+                <marker date="1577630827913" expanded="true" signature="82622:82639" ph="..." />
               </folding>
             </state>
           </provider>
@@ -224,6 +223,11 @@
             <path>
               <item name="Plants vs Zombies" type="b2602c69:ProjectViewProjectNode" />
               <item name="Plants vs Zombies" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Plants vs Zombies" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Plants vs Zombies" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Plants vs Zombies" type="b2602c69:ProjectViewProjectNode" />
@@ -356,11 +360,18 @@
       <option name="project" value="LOCAL" />
       <updated>1577628592567</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="initial models">
+      <created>1577630328803</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577630328803</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14138000" />
+    <option name="totallyTimeSpent" value="14665000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="3026" height="1946" extended-state="6" />
@@ -1374,10 +1385,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15229">
-          <caret line="954" column="17" lean-forward="false" selection-start-line="954" selection-start-column="17" selection-end-line="954" selection-end-column="17" />
+        <state relative-caret-position="15509">
+          <caret line="961" column="17" lean-forward="false" selection-start-line="961" selection-start-column="17" selection-end-line="961" selection-end-column="17" />
           <folding>
-            <marker date="1577630301150" expanded="true" signature="82249:82291" ph="..." />
+            <marker date="1577630827913" expanded="true" signature="82622:82639" ph="..." />
           </folding>
         </state>
       </provider>
