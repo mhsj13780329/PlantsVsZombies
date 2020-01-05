@@ -7,11 +7,11 @@ public class Plant extends Card {
     private int speedReduction;
     private int times;
     private boolean isMelee;
-    private boolean isScarely;
+    private boolean isShy;
     private boolean hasForwardShooting;
     private boolean hasBackwardShooting;
     private boolean isActive;
-    private boolean idSeaweed;
+    private boolean isSeaweed;
     private boolean isCat;
 
     public int getSuns() {
@@ -62,12 +62,12 @@ public class Plant extends Card {
         isMelee = melee;
     }
 
-    public boolean isScarely() {
-        return isScarely;
+    public boolean isShy() {
+        return isShy;
     }
 
-    public void setScarely(boolean scarely) {
-        isScarely = scarely;
+    public void setShy(boolean shy) {
+        isShy = shy;
     }
 
     public boolean isHasForwardShooting() {
@@ -94,12 +94,12 @@ public class Plant extends Card {
         isActive = active;
     }
 
-    public boolean isIdSeaweed() {
-        return idSeaweed;
+    public boolean isSeaweed() {
+        return isSeaweed;
     }
 
-    public void setIdSeaweed(boolean idSeaweed) {
-        this.idSeaweed = idSeaweed;
+    public void setSeaweed(boolean seaweed) {
+        this.isSeaweed = seaweed;
     }
 
     public boolean isCat() {

@@ -7,12 +7,20 @@ public class Card {
     private int health;
     private int damage;
     private int price;
-    private int cost;
     private int coordinateX;
     private int coordinateY;
-    private int cooldown;
+    private int coolDown;
     private String name;
     private boolean isWater;
+    private boolean isPlant;
+
+    public boolean isPlant() {
+        return isPlant;
+    }
+
+    public void setPlant(boolean plant) {
+        isPlant = plant;
+    }
 
     public ArrayList<Card> getCards() {
         return cards;
@@ -46,14 +54,6 @@ public class Card {
         this.price = price;
     }
 
-    public int getCost() {
-        return cost;
-    }
-
-    public void setCost(int cost) {
-        this.cost = cost;
-    }
-
     public int getCoordinateX() {
         return coordinateX;
     }
@@ -70,12 +70,12 @@ public class Card {
         this.coordinateY = coordinateY;
     }
 
-    public int getCooldown() {
-        return cooldown;
+    public int getCoolDown() {
+        return coolDown;
     }
 
-    public void setCooldown(int cooldown) {
-        this.cooldown = cooldown;
+    public void setCoolDown(int coolDown) {
+        this.coolDown = coolDown;
     }
 
     public String getName() {
