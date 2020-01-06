@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="da6558a5-ce8b-4e45-a6b7-fe106df0a964" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Models/Card.java" afterPath="$PROJECT_DIR$/src/com/company/Models/Card.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Models/Plant.java" afterPath="$PROJECT_DIR$/src/com/company/Models/Plant.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/company/Models/Plant.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -43,8 +41,8 @@
       <file leaf-file-name="Zombie.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Models/Zombie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="880">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding>
                 <element signature="e#153#154#0" expanded="true" />
                 <element signature="e#181#182#0" expanded="true" />
@@ -248,7 +246,7 @@
       <workItem from="1577195586073" duration="4692000" />
       <workItem from="1577580884829" duration="4382000" />
       <workItem from="1577698182694" duration="1151000" />
-      <workItem from="1578230332141" duration="980000" />
+      <workItem from="1578230332141" duration="4658000" />
     </task>
     <task id="LOCAL-00001" summary="test hanif">
       <created>1577091852808</created>
@@ -292,11 +290,18 @@
       <option name="project" value="LOCAL" />
       <updated>1577630952833</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="initial models">
+      <created>1578231351815</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1578231351815</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22369000" />
+    <option name="totallyTimeSpent" value="26047000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="3026" height="1946" extended-state="6" />
@@ -757,6 +762,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="12789">
           <caret line="893" column="17" lean-forward="false" selection-start-line="893" selection-start-column="17" selection-end-line="893" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -795,7 +801,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/Models/Plant.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -814,8 +820,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Models/Zombie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="880">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
             <element signature="e#153#154#0" expanded="true" />
             <element signature="e#181#182#0" expanded="true" />
