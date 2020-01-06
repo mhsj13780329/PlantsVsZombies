@@ -13,6 +13,15 @@ public class Plant extends Card {
     private boolean isActive;
     private boolean isSeaweed;
     private boolean isCat;
+    private int remaningCoolDown;
+
+    public int getRemaningCoolDown() {
+        return remaningCoolDown;
+    }
+
+    public void setRemaningCoolDown(int remaningCoolDown) {
+        this.remaningCoolDown = remaningCoolDown;
+    }
 
     public int getSuns() {
         return suns;
@@ -108,5 +117,9 @@ public class Plant extends Card {
 
     public void setCat(boolean cat) {
         isCat = cat;
+    }
+
+    public void plantEndTrun(){
+
     }
 }

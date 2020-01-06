@@ -3,13 +3,22 @@ package com.company.Models;
 import java.util.ArrayList;
 
 public class Player {
-    int killedZombies;
-    String userName;
-    String password;
-    ArrayList<Plant> boughtPlants;
-    ArrayList<Zombie> boughtZombies;
-    ArrayList<Plant> plantsHand;
-    ArrayList<Zombie> zombiesHand;
+    private int killedZombies;
+    private String userName;
+    private String password;
+    private ArrayList<Plant> boughtPlants;
+    private ArrayList<Zombie> boughtZombies;
+    private ArrayList<Plant> plantsHand;
+    private ArrayList<Zombie> zombiesHand;
+    private boolean hasShovel;
+
+    public boolean isHasShovel() {
+        return hasShovel;
+    }
+
+    public void setHasShovel(boolean hasShovel) {
+        this.hasShovel = hasShovel;
+    }
 
     public int getKilledZombies() {
         return killedZombies;
